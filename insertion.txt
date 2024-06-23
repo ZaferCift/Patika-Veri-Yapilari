@@ -1,0 +1,11 @@
+Dizi => [22,27,16,2,18,6]
+
+Insertion Sorting aşamaları
+
+1. [2,27,16,22,18,6]
+2. [2,6,16,22,18,27]
+3. [2,6,16,18,22,27]
+
+O notation: O(n²)
+
+18 sayısının time compexity'si Average Case kapsamına girer.
